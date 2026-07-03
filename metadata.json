@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Appointment & Follow-up Manager",
+  "description": "An intelligent healthcare portal featuring Google Calendar synchronization, AI-powered symptom analysis, clinical note summarization, secure slot-holding, and role-based doctor-patient coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
