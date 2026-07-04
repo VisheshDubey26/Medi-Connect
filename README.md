@@ -125,3 +125,6 @@ npm start
 ## 🔒 Security Best Practices
 *   **Secrets Isolation**: Never push `.env` configurations or real API credentials to public repositories. Set all environment configurations using GitHub Actions Secrets or platform variables.
 *   **Lazy Transporter Loading**: The backend is configured to construct client sessions (SMTP/Google Client) lazily to prevent crashing on server boot if any key is momentarily unset.
+
+
+DEPLOYED LINK :  https://healthcare-appointment-follow-up-manager-544607927104.asia-southeast1.run.app
